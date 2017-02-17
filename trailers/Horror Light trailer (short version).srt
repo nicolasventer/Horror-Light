@@ -1,0 +1,76 @@
+﻿1
+00:00:00,000 --> 00:00:00,333
+
+
+2
+00:00:00,333 --> 00:00:01,999
+HorrorLight.
+
+3
+00:00:02,000 --> 00:00:06,766
+HorrorLight is a 3D horror game in which you play a character locked in a labyrinth.
+
+4
+00:00:06,766 --> 00:00:09,066
+It is at the first person view.
+
+5
+00:00:09,066 --> 00:00:11,032
+You can walk for the discretion …
+
+6
+00:00:11,033 --> 00:00:13,133
+Or you can run for your life,
+
+7
+00:00:13,133 --> 00:00:15,233
+Until you find the exit …
+
+8
+00:00:15,233 --> 00:00:18,333
+Or until you die!
+
+9
+00:00:18,333 --> 00:00:22,499
+There are 3 modes: Escape, Survivor and Infection.
+
+10
+00:00:23,200 --> 00:00:26,033
+The humans are looking for an exit,
+
+11
+00:00:26,033 --> 00:00:29,633
+Whereas the monsters are looking for the humans.
+
+12
+00:00:30,233 --> 00:00:38,433
+All modes are playable in multiplayer and it’s highly recommended to play with friends.
+
+13
+00:00:38,433 --> 00:00:44,566
+You can use as a human or as a monster a lot of bonuses!
+
+14
+00:00:44,566 --> 00:00:48,532
+Rayon X vision, invisibility, minimap …
+
+15
+00:00:48,533 --> 00:00:51,433
+And you can place a lot of trap:
+
+16
+00:00:51,433 --> 00:00:56,266
+Blind mine, fake exit, immobilize mine…
+
+17
+00:00:56,266 --> 00:00:59,132
+Be the hunter or the hunted!
+
+18
+00:00:59,133 --> 00:01:00,833
+Choose your side!
+
+19
+00:01:00,833 --> 00:01:04,199
+Available in October 2017.
+

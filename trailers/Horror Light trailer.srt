@@ -1,0 +1,120 @@
+﻿1
+00:00:00,333 --> 00:00:01,999
+HorrorLight.
+
+2
+00:00:02,000 --> 00:00:06,766
+HorrorLight is a 3D horror game in which you play a character locked in a labyrinth.
+
+3
+00:00:06,766 --> 00:00:09,066
+It is at the first person view.
+
+4
+00:00:09,066 --> 00:00:11,032
+You can walk for the discretion …
+
+5
+00:00:11,033 --> 00:00:13,133
+Or you can run for your life,
+
+6
+00:00:13,133 --> 00:00:15,233
+Until you find the exit …
+
+7
+00:00:15,233 --> 00:00:18,333
+Or until you die!
+
+8
+00:00:18,333 --> 00:00:22,499
+There are 3 modes: Escape, Survivor and Infection.
+
+9
+00:00:22,500 --> 00:00:27,166
+In escape mode, there are humans and monsters at the beginning.
+
+10
+00:00:27,166 --> 00:00:29,999
+In a given time, the humans are looking for an exit,
+
+11
+00:00:30,000 --> 00:00:33,600
+Whereas the monsters are looking for the humans.
+
+12
+00:00:33,600 --> 00:00:35,666
+Be careful, don’t team up with humans!
+
+13
+00:00:35,666 --> 00:00:41,632
+When a human go through an exit, this exit disappears and another is randomly placed.
+
+14
+00:00:41,633 --> 00:00:46,466
+And it can kill you! Or just makes you lose.
+
+15
+00:00:46,466 --> 00:00:53,766
+In survivor mode, there are humans at the beginning and monsters are appearing over time.
+
+16
+00:00:53,766 --> 00:01:00,766
+The humans must survive the longest possible and find the most exits before dying.
+
+17
+00:01:00,766 --> 00:01:03,732
+Likewise, don’t team up with humans!
+
+18
+00:01:03,733 --> 00:01:10,433
+They will steal you exits and your score will stay low until you die!
+
+19
+00:01:10,433 --> 00:01:15,499
+In infection mode, there are more humans than monsters at the beginning.
+
+20
+00:01:15,500 --> 00:01:22,200
+In a given time, the monsters must infect the most humans possible before they reach the exit.
+
+21
+00:01:22,200 --> 00:01:28,500
+You can team up with humans: the more humans escaped, the less humans infected.
+
+22
+00:01:28,500 --> 00:01:35,733
+But be careful, if they are infected you can quickly be infected too.
+
+23
+00:01:35,733 --> 00:01:43,933
+All modes are playable in multiplayer and it’s highly recommended to play with friends.
+
+24
+00:01:43,933 --> 00:01:50,066
+You can use as a human or as a monster a lot of bonuses!
+
+25
+00:01:50,066 --> 00:01:54,032
+Rayon X vision, invisibility, minimap …
+
+26
+00:01:54,033 --> 00:01:56,933
+And you can place a lot of trap:
+
+27
+00:01:56,933 --> 00:02:01,766
+Blind mine, fake exit, immobilize mine…
+
+28
+00:02:01,766 --> 00:02:04,632
+Be the hunter or the hunted!
+
+29
+00:02:04,633 --> 00:02:06,333
+Choose your side!
+
+30
+00:02:06,333 --> 00:02:09,699
+Available in October 2017.
+
