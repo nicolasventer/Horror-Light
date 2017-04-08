@@ -1,4 +1,4 @@
-#Horror Light
+# Horror Light
 
 This is a 3D Horror Game in which you play a character locked in a labyrinth.  
 It is at the first person view.
