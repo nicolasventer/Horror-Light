@@ -8,4 +8,4 @@ To launch a WebGL build, you need **Firefox**.
 
 --
 
-This git contains all prototype versions with a prototype document. It also contains the trailers of the game.
+This git contains the last version of my game with a descriptive document. It also contains the trailers of the game.
